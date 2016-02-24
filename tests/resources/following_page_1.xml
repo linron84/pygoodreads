@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[3WTEwSejHvuT5V3nGcmjA]]></key>
+    <method><![CDATA[user_followings_following]]></method>
+  </Request>
+  <following start="1" end="21" total="210">
+    <user>
+      <id>2149405</id>
+      <name>Gisbelle</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/2149405-gisbelle]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1404789078p3/2149405.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1404789078p2/2149405.jpg]]></small_image_url>
+      <friends_count>82</friends_count>
+      <reviews_count>1694</reviews_count>
+  			<created_at>Wed Feb 12 06:48:05 -0800 2014</created_at>
+    </user>
+    <user>
+      <id>4297552</id>
+      <name>Helga Weber</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/4297552-helga-weber]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1285051453p3/4297552.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1285051453p2/4297552.jpg]]></small_image_url>
+      <friends_count>346</friends_count>
+      <reviews_count>84</reviews_count>
+  			<created_at>Fri Feb 14 13:32:41 -0800 2014</created_at>
+    </user>
+    <user>
+      <id>6249323</id>
+      <name>Elisha Ruzgal</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/6249323-elisha-ruzgal]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1406566193p3/6249323.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1406566193p2/6249323.jpg]]></small_image_url>
+      <friends_count>102</friends_count>
+      <reviews_count>1255</reviews_count>
+  			<created_at>Mon Sep 23 22:54:11 -0700 2013</created_at>
+    </user>
+    <user>
+      <id>7162236</id>
+      <name>Neil</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/7162236-neil]]></link>
+      <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+      <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+      <friends_count>0</friends_count>
+      <reviews_count>0</reviews_count>
+  			<created_at>Thu Nov 27 03:16:00 -0800 2014</created_at>
+    </user>
+    <user>
+      <id>7208929</id>
+      <name>Eileen</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/7208929-eileen]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1425566511p3/7208929.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1425566511p2/7208929.jpg]]></small_image_url>
+      <friends_count>317</friends_count>
+      <reviews_count>643</reviews_count>
+        <user_status>
+  <id type="integer">74767658</id>
+  <page type="integer">0</page>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body></body>
+  <created_at type="datetime">2015-08-30T00:00:53+00:00</created_at>
+  <updated_at type="datetime">2015-08-30T00:00:53+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer">0</percent>
+  <work_id type="integer">26743920</work_id>
+  <note_uri nil="true"/>
+  <note_updated_at type="datetime" nil="true"/>
+<book>
+  <id type="integer">18809943</id>
+  <isbn nil="true"/>
+  <isbn13>2940150270794</isbn13>
+  <text_reviews_count type="integer">1080</text_reviews_count>
+  <title>Unexpected Fate (Hope Town, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1410620898m/18809943.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1410620898s/18809943.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18809943-unexpected-fate</link>
+  <num_pages>300</num_pages>
+  <format>Nook</format>
+  <edition_information/>
+  <publisher>Harper Sloan</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.26</average_rating>
+  <ratings_count>9666</ratings_count>
+  <description>Have you ever felt like you were living your life for a future that was predetermined? Like there was some bigger picture you just prayed you would someday see clearly? That picture has been crystal clear to me since I was old enough to recognize it for just what it was.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Or I should say recognize him for who he was.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;I’ve loved Cohen Cage since I was a small child. He’s been my everything for the last twenty-two years. I’ve loved him through every girlfriend he’s ever brought home. Through his college years and then mine. I’ve loved him through two deployments. And ever since the day I told him how I felt, he’s acted like I’m a stranger.&lt;br&gt;&lt;br&gt;&lt;strong&gt;My name is Danielle Reid, and it’s time for me to get my man. &lt;/strong&gt;&lt;br&gt;&lt;br&gt;Our future is an unexpected fate, and no matter what our parents, siblings, and friends say…it’s going to be worth every second of the fight to make it happen.</description>
+<authors>
+<author>
+<id>7122060</id>
+<name>Harper Sloan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1427925194p5/7122060.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1427925194p2/7122060.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7122060.Harper_Sloan]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>122353</ratings_count>
+<text_reviews_count>12275</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+</user_status>
+
+  			<created_at>Sat Feb 15 23:59:58 -0800 2014</created_at>
+    </user>
+    <user>
+      <id>7225730</id>
+      <name>Lilian</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/7225730-lilian]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1324816706p3/7225730.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1324816706p2/7225730.jpg]]></small_image_url>
+      <friends_count>254</friends_count>
+      <reviews_count>519</reviews_count>
+        <user_status>
+  <id type="integer">83877702</id>
+  <page type="integer">160</page>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body>Reading this because it was on a "best books of 2015" list and I am regretting it. I love the premise, but these characters bore me.</body>
+  <created_at type="datetime">2016-01-04T06:50:59+00:00</created_at>
+  <updated_at type="datetime">2016-01-04T06:51:15+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer">41</percent>
+  <work_id type="integer">16452676</work_id>
+  <note_uri>kca://note/amzn1.grok.note.27e006320ef455cea092c81459e4c1b3</note_uri>
+  <note_updated_at type="datetime">2016-01-04T06:51:15+00:00</note_updated_at>
+<book>
+  <id type="integer">11516221</id>
+  <isbn>1481442716</isbn>
+  <isbn13>9781481442718</isbn13>
+  <text_reviews_count type="integer">563</text_reviews_count>
+  <title>The Scorpion Rules (Prisoners of Peace, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1428689952m/11516221.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1428689952s/11516221.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11516221-the-scorpion-rules</link>
+  <num_pages>384</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Margaret K. McElderry Books</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.45</average_rating>
+  <ratings_count>1812</ratings_count>
+  <description>&lt;em&gt;The world is at peace,&lt;/em&gt; said the Utterances. &lt;em&gt;And really, if the odd princess has a hard day, is that too much to ask?&lt;/em&gt;&lt;br&gt;&lt;br&gt;Greta is a duchess and crown princess—and a hostage to peace. This is how the game is played: if you want to rule, you must give one of your children as a hostage. Go to war and your hostage dies.&lt;br&gt;&lt;br&gt;Greta will be free if she can survive until her eighteenth birthday. Until then she lives in the Precepture school with the daughters and sons of the world’s leaders. Like them, she is taught to obey the machines that control their lives. Like them, she is prepared to die with dignity, if she must. But everything changes when a new hostage arrives. Elián is a boy who refuses to play by the rules, a boy who defies everything Greta has ever been taught. And he opens Greta’s eyes to the brutality of the system they live under—and to her own power.&lt;br&gt;&lt;br&gt;As Greta and Elián watch their nations tip closer to war, Greta becomes a target in a new kind of game. A game that will end up killing them both—unless she can find a way to break all the rules.</description>
+<authors>
+<author>
+<id>3099087</id>
+<name>Erin Bow</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1269312969p5/3099087.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1269312969p2/3099087.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3099087.Erin_Bow]]></link>
+<average_rating>3.67</average_rating>
+<ratings_count>7134</ratings_count>
+<text_reviews_count>1736</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+</user_status>
+
+  			<created_at>Sun Feb 16 00:00:11 -0800 2014</created_at>
+    </user>
+    <user>
+      <id>8413126</id>
+      <name>Ejhay</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/8413126-ejhay]]></link>
+      <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+      <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+      <friends_count>0</friends_count>
+      <reviews_count>1</reviews_count>
+  			<created_at>Thu Nov 27 03:16:01 -0800 2014</created_at>
+    </user>
+    <user>
+      <id>10297738</id>
+      <name>Haruki</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/10297738-haruki]]></link>
+      <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+      <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+      <friends_count>1</friends_count>
+      <reviews_count>0</reviews_count>
+  			<created_at>Sat Apr 11 15:22:08 -0700 2015</created_at>
+    </user>
+    <user>
+      <id>15444067</id>
+      <name>Kenny Rose</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/15444067-kenny-rose]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1355390234p3/15444067.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1355390234p2/15444067.jpg]]></small_image_url>
+      <friends_count>84</friends_count>
+      <reviews_count>128</reviews_count>
+  			<created_at>Thu Nov 27 03:16:21 -0800 2014</created_at>
+    </user>
+    <user>
+      <id>15907431</id>
+      <name>Fiona</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/15907431-fiona]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1450745012p3/15907431.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1450745012p2/15907431.jpg]]></small_image_url>
+      <friends_count>326</friends_count>
+      <reviews_count>1179</reviews_count>
+        <user_status>
+  <id type="integer">83982138</id>
+  <page type="integer">220</page>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body>It gets better and better.  Wow.</body>
+  <created_at type="datetime">2016-01-05T03:51:57+00:00</created_at>
+  <updated_at type="datetime">2016-01-05T03:52:22+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer">54</percent>
+  <work_id type="integer">11138426</work_id>
+  <note_uri>kca://note/amzn1.grok.note.d656ecfb7c530fe481d9e268907bffd2</note_uri>
+  <note_updated_at type="datetime">2016-01-05T03:52:22+00:00</note_updated_at>
+<book>
+  <id type="integer">16034235</id>
+  <isbn>1619630346</isbn>
+  <isbn13>9781619630345</isbn13>
+  <text_reviews_count type="integer">2028</text_reviews_count>
+  <title>Throne of Glass (Throne of Glass, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1419066050m/16034235.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1419066050s/16034235.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16034235-throne-of-glass</link>
+  <num_pages>404</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bloomsbury USA Childrens</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>175231</ratings_count>
+  <description>In a land without magic, where the king rules with an iron hand, an assassin is summoned to the castle. She comes not to kill the king, but to win her freedom. If she defeats twenty-three killers, thieves, and warriors in a competition, she is released from prison to serve as the king's champion. Her name is Celaena Sardothien. &lt;br&gt;&lt;br&gt;The Crown Prince will provoke her. The Captain of the Guard will protect her. But something evil dwells in the castle of glass--and it's there to kill. When her competitors start dying one by one, Celaena's fight for freedom becomes a fight for survival, and a desperate quest to root out the evil before it destroys her world.</description>
+<authors>
+<author>
+<id>3433047</id>
+<name>Sarah J. Maas</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1269281353p5/3433047.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1269281353p2/3433047.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3433047.Sarah_J_Maas]]></link>
+<average_rating>4.39</average_rating>
+<ratings_count>518463</ratings_count>
+<text_reviews_count>63363</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+</user_status>
+
+  			<created_at>Sat Jul 25 15:20:40 -0700 2015</created_at>
+    </user>
+    <user>
+      <id>20627656</id>
+      <name>Ron Uchima</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/20627656-ron-uchima]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1369315604p3/20627656.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1369315604p2/20627656.jpg]]></small_image_url>
+      <friends_count>47</friends_count>
+      <reviews_count>26</reviews_count>
+  			<created_at>Sat Mar 07 11:45:22 -0800 2015</created_at>
+    </user>
+    <user>
+      <id>21459432</id>
+      <name>Rhowell Vargas</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/21459432-rhowell-vargas]]></link>
+      <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+      <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+      <friends_count>0</friends_count>
+      <reviews_count>1</reviews_count>
+  			<created_at>Mon May 19 09:29:22 -0700 2014</created_at>
+    </user>
+    <user>
+      <id>34037151</id>
+      <name>Pam Pagaduan</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/34037151-pam-pagaduan]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1408260342p3/34037151.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1408260342p2/34037151.jpg]]></small_image_url>
+      <friends_count>33</friends_count>
+      <reviews_count>1</reviews_count>
+  			<created_at>Sat Mar 07 11:45:15 -0800 2015</created_at>
+    </user>
+    <user>
+      <id>5856960</id>
+      <name>Markus Zusak</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/5856960-markus-zusak]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1442449058p3/5856960.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1442449058p2/5856960.jpg]]></small_image_url>
+      <friends_count>0</friends_count>
+      <reviews_count>27</reviews_count>
+  			<created_at>Fri Sep 09 08:04:48 -0700 2011</created_at>
+    </user>
+    <user>
+      <id>1741767</id>
+      <name>Brent Weeks</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/1741767-brent-weeks]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1442487182p3/1741767.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1442487182p2/1741767.jpg]]></small_image_url>
+      <friends_count>2094</friends_count>
+      <reviews_count>173</reviews_count>
+    </user>
+    <user>
+      <id>16696978</id>
+      <name>John Green</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/16696978-john-green]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1442487970p3/16696978.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1442487970p2/16696978.jpg]]></small_image_url>
+      <friends_count>513</friends_count>
+      <reviews_count>23</reviews_count>
+  			<created_at>Tue Jan 22 11:34:49 -0800 2013</created_at>
+    </user>
+    <user>
+      <id>6559504</id>
+      <name>Jim Butcher</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/6559504-jim-butcher]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1442447722p3/6559504.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1442447722p2/6559504.jpg]]></small_image_url>
+      <friends_count>101</friends_count>
+      <reviews_count>0</reviews_count>
+  			<created_at>Sat Nov 05 23:23:17 -0700 2011</created_at>
+    </user>
+    <user>
+      <id>39719470</id>
+      <name>Simone Elkeles</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/39719470-simone-elkeles]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1442462908p3/39719470.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1442462908p2/39719470.jpg]]></small_image_url>
+      <friends_count>64</friends_count>
+      <reviews_count>3</reviews_count>
+  			<created_at>Thu Jan 29 12:20:52 -0800 2015</created_at>
+    </user>
+    <user>
+      <id>2814721</id>
+      <name>Stephanie Perkins</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/2814721-stephanie-perkins]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1407442985p3/2814721.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1407442985p2/2814721.jpg]]></small_image_url>
+      <friends_count>5000</friends_count>
+      <reviews_count>0</reviews_count>
+    </user>
+    <user>
+      <id>1239026</id>
+      <name>Neil</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/1239026-neil]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1442484358p3/1239026.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1442484358p2/1239026.jpg]]></small_image_url>
+      <friends_count>5494</friends_count>
+      <reviews_count>33</reviews_count>
+  			<created_at>Thu May 14 15:15:02 -0700 2015</created_at>
+    </user>
+    <user>
+      <id>4414686</id>
+      <name>Naomi Novik</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/4414686-naomi-novik]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1442439370p3/4414686.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1442439370p2/4414686.jpg]]></small_image_url>
+      <friends_count>290</friends_count>
+      <reviews_count>44</reviews_count>
+    </user>
+    <user>
+      <id>17499211</id>
+      <name>Mike Carey</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/17499211-mike-carey]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1442439396p3/17499211.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1442439396p2/17499211.jpg]]></small_image_url>
+      <friends_count>98</friends_count>
+      <reviews_count>22</reviews_count>
+  			<created_at>Tue Feb 19 19:01:54 -0800 2013</created_at>
+    </user>
+    <user>
+      <id>2366515</id>
+      <name>N.K. Jemisin</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/2366515-n-k-jemisin]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1442500552p3/2366515.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1442500552p2/2366515.jpg]]></small_image_url>
+      <friends_count>496</friends_count>
+      <reviews_count>87</reviews_count>
+  			<created_at>Thu Nov 27 03:16:00 -0800 2014</created_at>
+    </user>
+    <user>
+      <id>666892</id>
+      <name>Felicia</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/666892-felicia]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1437521850p3/666892.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1437521850p2/666892.jpg]]></small_image_url>
+      <friends_count>4556</friends_count>
+      <reviews_count>1033</reviews_count>
+        <user_status>
+  <id type="integer">80627029</id>
+  <page type="integer" nil="true"/>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body>Please vote for the FINAL ROUND in the Goodreads Humor Category! My book is amongst very good company, but winning with your help would be awesome!
+ https://www.goodreads.com/choiceawards/best-humor-books-2015</body>
+  <created_at type="datetime">2015-11-20T17:10:06+00:00</created_at>
+  <updated_at type="datetime">2015-11-20T17:10:06+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer" nil="true"/>
+  <work_id type="integer" nil="true"/>
+  <note_uri nil="true"/>
+  <note_updated_at type="datetime" nil="true"/>
+</user_status>
+
+  			<created_at>Thu Sep 15 06:43:00 -0700 2011</created_at>
+    </user>
+</following>
+
+</GoodreadsResponse>

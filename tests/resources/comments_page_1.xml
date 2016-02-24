@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[3WTEwSejHvuT5V3nGcmjA]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>26448271</id>
+    
+  <user>
+    <id>911195</id>
+    <name>James</name>
+
+    <location>Needham Heights, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/911195-james]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442486484p3/911195.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442486484p2/911195.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">41865</id>
+  <isbn>0316015849</isbn>
+  <isbn13>9780316015844</isbn13>
+  <text_reviews_count type="integer">85033</text_reviews_count>
+  <title>Twilight (Twilight, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1361039443m/41865.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1361039443s/41865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41865.Twilight</link>
+  <num_pages>498</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.56</average_rating>
+  <ratings_count>3239428</ratings_count>
+  <description>&lt;strong&gt;About three things I was absolutely positive.&lt;br&gt;&lt;br&gt;First, Edward was a vampire.&lt;br&gt;&lt;br&gt;Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.&lt;br&gt;&lt;br&gt;And third, I was unconditionally and irrevocably in love with him.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;In the first book of the Twilight Saga, internationally bestselling author Stephenie Meyer introduces Bella Swan and Edward Cullen, a pair of star-crossed lovers whose forbidden relationship ripens against the backdrop of small-town suspicion and a mysterious coven of vampires. This is a love story with bite.</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1408942967p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1408942967p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.64</average_rating>
+<ratings_count>7628856</ratings_count>
+<text_reviews_count>274406</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>1135</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="modern-fantasy" exclusive="false" review_shelf_id="11232085" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jul 01 00:00:00 -0700 2008</read_at>
+  <date_added>Sun Jul 06 12:27:05 -0700 2008</date_added>
+  <date_updated>Wed Feb 19 08:23:31 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[It turns out we don't need Dr. John Gray to tell us that men are from Transylvania and women are from Venus. We just need to read Stephenie Meyer books. For example, from this book we learn that the millions of women who have wolfed down the Twilight series (pun intended) want men who:<br /><br /><strong>1. Talk abo...</strong>]]>
+  </body>
+  <comments_count>111</comments_count>
+    <comments start="1" end="50" total="111">
+        <comment>
+  <id>1149442</id>
+  <body><![CDATA[We discussed this in our family book discussion and your review set the tone. I completely agree and I can't wait for American VamPIEer to come out.<br><br><br>]]></body>
+  
+  <user>
+    <id>899829</id>
+    <name>Brigham</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/899829-brigham]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1232405603p3/899829.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1232405603p2/899829.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jul 07 07:24:35 -0700 2008</created_at>
+  <updated_at>Mon Jul 07 07:24:35 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1149597</id>
+  <body><![CDATA[Thats awesome!]]></body>
+  
+  <user>
+    <id>902322</id>
+    <name>Bronson</name>
+
+    <location>Salt Lake City, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/902322-bronson]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1210995782p3/902322.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1210995782p2/902322.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jul 07 07:47:25 -0700 2008</created_at>
+  <updated_at>Mon Jul 07 07:47:25 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1150591</id>
+  <body><![CDATA[so funny - it thanks for writing this because it totally articulates everything that Brigham wanted to say - but much funnier :)]]></body>
+  
+  <user>
+    <id>873952</id>
+    <name>Elizabeth</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/873952-elizabeth-allen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1202230324p3/873952.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1202230324p2/873952.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jul 07 09:32:28 -0700 2008</created_at>
+  <updated_at>Mon Jul 07 09:32:28 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1157332</id>
+  <body><![CDATA[Well said. As a woman who can't stand the traditional romance novels, I agree that Stephanie Meyer gets it right. Plus she includes vampires.]]></body>
+  
+  <user>
+    <id>601763</id>
+    <name>Mia</name>
+
+    <location>Round Rock, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/601763-mia]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1320201013p3/601763.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1320201013p2/601763.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jul 07 20:56:52 -0700 2008</created_at>
+  <updated_at>Mon Jul 07 20:56:52 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1189502</id>
+  <body><![CDATA[James, you cynic....(smile, smile, smile)I loved your review. Pretty much says it all.....and yes, women apparentll want the one without the other. ]]></body>
+  
+  <user>
+    <id>904678</id>
+    <name>Mililani</name>
+
+    <location>American Fork, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/904678-mililani]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1202924181p3/904678.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1202924181p2/904678.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jul 11 07:55:35 -0700 2008</created_at>
+  <updated_at>Fri Jul 11 07:55:35 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2192385</id>
+  <body><![CDATA[Agreed! "No, I love her more," "No, I do!" It's a theme that comes up again in <em>The Host</em>. Must be a personal fantasy of hers.]]></body>
+  
+  <user>
+    <id>911195</id>
+    <name>James</name>
+
+    <location>Needham Heights, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/911195-james]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442486484p3/911195.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442486484p2/911195.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Oct 16 04:28:51 -0700 2008</created_at>
+  <updated_at>Thu Oct 16 04:28:51 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2195120</id>
+  <body><![CDATA[You are very prolific in your review....for a man :)<br>I simply LOVED reading this. It will make me smile all day!]]></body>
+  
+  <user>
+    <id>1626861</id>
+    <name>Joyce</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1626861-joyce]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1224176684p3/1626861.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1224176684p2/1626861.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Oct 16 10:38:27 -0700 2008</created_at>
+  <updated_at>Thu Oct 16 10:38:27 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2673063</id>
+  <body><![CDATA[*Smiling* Thank you for understanding.<br>]]></body>
+  
+  <user>
+    <id>1555189</id>
+    <name>Kristi</name>
+
+    <location>Bellingham, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1555189-kristi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1342922544p3/1555189.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1342922544p2/1555189.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 24 14:37:45 -0800 2008</created_at>
+  <updated_at>Mon Nov 24 14:37:45 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2691660</id>
+  <body><![CDATA[Loved your review. You're witty, charming, and quite frankly, better than Edward.]]></body>
+  
+  <user>
+    <id>900442</id>
+    <name>Megan</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/900442-megan]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1202831983p3/900442.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1202831983p2/900442.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Nov 25 19:00:51 -0800 2008</created_at>
+  <updated_at>Tue Nov 25 19:00:51 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2795894</id>
+  <body><![CDATA[You nailed this one on the head. I may be able to get Todd to read the series now, if he will read your review.]]></body>
+  
+  <user>
+    <id>1039986</id>
+    <name>Melody</name>
+
+    <location>Salt Lake City, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1039986-melody-riches]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1249704617p3/1039986.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1249704617p2/1039986.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Dec 03 17:45:23 -0800 2008</created_at>
+  <updated_at>Wed Dec 03 17:45:23 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2812443</id>
+  <body><![CDATA[Great review! You made me want to read the male version of the story... American Vam-PIE-er sounds like a book I might enjoy! ;) Give me the smut please... ]]></body>
+  
+  <user>
+    <id>1015445</id>
+    <name>Heather</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1015445-heather]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1390749149p3/1015445.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1390749149p2/1015445.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Dec 04 20:49:20 -0800 2008</created_at>
+  <updated_at>Thu Dec 04 20:49:20 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2964378</id>
+  <body><![CDATA[Thank you for ADMITTING the guys' version! I laughed out loud when I read your review! My husband is dying to know why I bury my face in a book every night, and I'm directing him to your review... ]]></body>
+  
+  <user>
+    <id>968439</id>
+    <name>Amy</name>
+
+    <location>Westfield, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/968439-amy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Dec 16 07:11:53 -0800 2008</created_at>
+  <updated_at>Tue Dec 16 07:11:53 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3128663</id>
+  <body><![CDATA[Nice review! Can't wait to see the movie, obviously. ]]></body>
+  
+  <user>
+    <id>1117991</id>
+    <name>Mo</name>
+
+    <location>Netherlands</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1117991-mo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1209204542p3/1117991.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1209204542p2/1117991.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Dec 28 13:37:30 -0800 2008</created_at>
+  <updated_at>Sun Dec 28 13:37:30 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3147624</id>
+  <body><![CDATA[Made me smile! Your review alone was worth joining GoodReads.<br><br>Would love to hear your review of MIDNIGHT SUN - the first half of Twilight told from Edward's perspective.]]></body>
+  
+  <user>
+    <id>1841694</id>
+    <name>Lisa</name>
+
+    <location>California, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1841694-lisa]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 14:35:21 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 14:35:21 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3148588</id>
+  <body><![CDATA[I really appreciate your review and frankly,(with a fluttering heart) feel relieved that a man can get so much from this book in many women's mindset of what, perhaps, is important to her but society claims differently and causes a woman to perhaps "forget" her true desires. Bravo!]]></body>
+  
+  <user>
+    <id>1798356</id>
+    <name>Danielle</name>
+
+    <location>Jacksonville, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1798356-danielle-selby]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1229117396p3/1798356.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1229117396p2/1798356.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 15:30:44 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 15:30:44 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3178501</id>
+  <body><![CDATA[I think you hit the mark with your review! I actually started smiling while reading it. Very insightful!]]></body>
+  
+  <user>
+    <id>1836073</id>
+    <name>Diana</name>
+
+    <location>Sour Lake, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1836073-diana]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1242336992p3/1836073.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1242336992p2/1836073.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Dec 31 06:07:21 -0800 2008</created_at>
+  <updated_at>Wed Dec 31 06:07:21 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3284692</id>
+  <body><![CDATA[Lol, you've definately hit the mark with your review. I've always thought that there was something not quite right about Edward...but now, after reading your review, I've finally realized what was so unreal about him. :D ]]></body>
+  
+  <user>
+    <id>1164113</id>
+    <name>Bih-Ning</name>
+
+    <location>Somewhere on Earth, Taiwan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1164113-bih-ning]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1279983477p3/1164113.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1279983477p2/1164113.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Jan 06 00:33:54 -0800 2009</created_at>
+  <updated_at>Tue Jan 06 00:33:54 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3335084</id>
+  <body><![CDATA[I am really into reading anything dealing with vampires, but somehow this book just never caught my attention. Even after all the hype centered around the movie. But after reading your review, I want to give this book a try so that I may laugh as I compare your funny review to the actual stry. ]]></body>
+  
+  <user>
+    <id>1887725</id>
+    <name>Cynth</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1887725-cynth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417839713p3/1887725.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417839713p2/1887725.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jan 09 10:41:50 -0800 2009</created_at>
+  <updated_at>Fri Jan 09 10:41:50 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3404180</id>
+  <body><![CDATA[Thank you so much for your perceptive insight. All the while reading these books, I wondered why, why, why, do I keep reading this series against my better judgment? And more so, how did I get hooked in the first place? There's no denying its sweet and innocent charm surrounding the characters no matter how annoying they seemed. The biggest draw for me that held my attention to the very end, was my hope that someday Bella and Edward’s relationship would reach a perfect crest against all insurmountable odds -- self inflicted or not. Your review is illuminating and spot on! Thanks for sharing. <br><br>I can add to your list of manly perfections that indeed, sweep a female off her feet. Perhaps not as eloquent as you, but here it is...<br><br>Women, and especially teenage girls, love the idea of seeing something tender and vulnerable under a "bad" guy's hard exterior. This makes him more appealing, more beautiful, even sexy. We sense his guarded heart and we want to release it, hold it and nurture it. But taming it is not enough. Ultimately, we want it to love us back. Bella understands Edward's goodness and makes him realize it too. Which in turn, makes him love her even more. What woman wouldn't want that kind of power over a man. Not malicious power, but power all the same. How dramatic and utterly ideal is that.<br>]]></body>
+  
+  <user>
+    <id>1182038</id>
+    <name>abmahoney</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1182038-abmahoney]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Jan 13 08:57:53 -0800 2009</created_at>
+  <updated_at>Tue Jan 13 08:57:53 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3404912</id>
+  <body><![CDATA[I told my husband that it would behoove him and all men to read these books to get an understanding of what it is a woman really wants in her man. (Stephanie Meyer got it absolutely right for me! And this is coming from someone who put off starting the Twilight series until 2009 because I was so turned off by the hype, and because I abhor romance novels. ) Anyway, he didn't like that idea, so I just sent him a link to your review instead. Thanks!]]></body>
+  
+  <user>
+    <id>860918</id>
+    <name>Crystal</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/860918-crystal]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1256327158p3/860918.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1256327158p2/860918.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Jan 13 10:12:14 -0800 2009</created_at>
+  <updated_at>Tue Jan 13 10:12:14 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3658999</id>
+  <body><![CDATA[James, I enjoyed reading your review. I wish you had a column on my local newspaper to review the books released in my country. Congratulations, you are a good writer.]]></body>
+  
+  <user>
+    <id>403331</id>
+    <name>Norablanco</name>
+
+    <location>Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/403331-norablanco]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1190408376p3/403331.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1190408376p2/403331.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Jan 27 06:09:31 -0800 2009</created_at>
+  <updated_at>Tue Jan 27 06:09:31 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3659994</id>
+  <body><![CDATA[I love your comments. They are humorous and started a great conversation at my family and friends night. I am just happy that Mrs. Meyer wrote a book that pre-teens, teens, and parents/adults can actually sit in a room together and discuss with great fervor. You are a very good critic and columnist.]]></body>
+  
+  <user>
+    <id>1961841</id>
+    <name>Felicia</name>
+
+    <location>White Castle, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1961841-felicia-gary]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Jan 27 07:55:16 -0800 2009</created_at>
+  <updated_at>Tue Jan 27 07:55:16 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3731697</id>
+  <body><![CDATA[This review was great! What Meyer couldn't do in 450 odd pages you did in two screen scrolls - made me smile and laugh out!<br>As you rightly put it, this is more of a female-wishlist than fantasy fiction, and what made it even better to comprehend was the unmistakable yet completely non-nasty sarcasm there!<br>You made my day! (trying hard now to finish reading the actual book)]]></body>
+  
+  <user>
+    <id>1022895</id>
+    <name>Aparna</name>
+
+    <location>Bangalore, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1022895-aparna]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1353389277p3/1022895.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1353389277p2/1022895.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jan 30 20:20:56 -0800 2009</created_at>
+  <updated_at>Fri Jan 30 20:20:56 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3854521</id>
+  <body><![CDATA[How do you feel about being named after an evil vampire? Just kidding. Sorry, I've been known to say dumb stuff like that.]]></body>
+  
+  <user>
+    <id>1284597</id>
+    <name>Molly</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1284597-molly]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1351198605p3/1284597.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1351198605p2/1284597.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Feb 06 15:33:54 -0800 2009</created_at>
+  <updated_at>Fri Feb 06 15:33:54 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4133375</id>
+  <body><![CDATA[You are so right on! James, I must repost your comment/review on my blog -- with proper credits, of course (please contact me if you want my blog's address)! ]]></body>
+  
+  <user>
+    <id>784666</id>
+    <name>Lainey Zee</name>
+
+    <location>Bend, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/784666-lainey-zee]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1386578036p3/784666.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1386578036p2/784666.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Feb 22 00:56:41 -0800 2009</created_at>
+  <updated_at>Sun Feb 22 00:56:41 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4226701</id>
+  <body><![CDATA[Too funny. And even funnier are some of the comments ...:-)<br>Let me know if you write a book (or screenplay). I'll get them over another Meyer's.]]></body>
+  
+  <user>
+    <id>1362835</id>
+    <name>Lina</name>
+
+    <location>Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1362835-lina]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1320222207p3/1362835.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1320222207p2/1362835.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Feb 26 18:54:04 -0800 2009</created_at>
+  <updated_at>Thu Feb 26 18:54:04 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4745336</id>
+  <body><![CDATA[That was hilarious and so true! Much kudos for your commentary. My husband would agree 100%, as he is tired of my carrying on about "these vampire books."]]></body>
+  
+  <created_at>Tue Mar 24 13:55:13 -0700 2009</created_at>
+  <updated_at>Tue Mar 24 13:55:13 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4897703</id>
+  <body><![CDATA[This was a hilarious review that I could certainly agree with -from the woman's perspective. <br>As someone who has never understood the "vampire craze" that has seemed to infect everyone and having never read the books, you have sparked a desire in me to read them.<br>Thanks for sharing and being so insightful in a witty and honest way. Would love to read your thoughts on so many other popular books! I'm sure it would provide boundless entertainment and accurate assesments beyond the media hype.<br>And I'll add to the pleas for your male version....put me on the list for a copy!]]></body>
+  
+  <user>
+    <id>1929659</id>
+    <name>Dawn</name>
+
+    <location>Shallotte, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1929659-dawn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1281056675p3/1929659.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1281056675p2/1929659.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 01 07:31:53 -0700 2009</created_at>
+  <updated_at>Wed Apr 01 07:31:53 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4911322</id>
+  <body><![CDATA[As a woman (not a teenager), I am hesitant to admit that I enjoyed the book, as it pertains to fantasy. Especially after reading the not-so-flattering comments posted here. But isn't fantasty the purpose of books like this? To take one away from the dulldroms of the mundane life lead everyday. To wish for the perfect man, albeit a little cold to the touch. The paleness I can deal with. I mean who wouldn't want a man who sparkles in the sunlight? Besides, men who hold open doors, help you with your coat and leap from treetop to treetop are few and far between these days. <br><br>Having heard all the hype, I finally succomed to the pressure and gave it a once over. Although not a book I will keep on the shelf, I did enjoy the image I created and the model of Edward that seemed to defy your "Men Are From Transylvania" theory. I'd be happy to start my shopping there however, if indeed men like Edward were the product of the creepy Romanian county set high in the Carpathian Mountains. Perhaps it is Transylvania's Roman heritage that would create a man like Edward. Don't get me wrong, he's no chariot driver. But fast, strong and chiseled he is, in my mind anyway. Maybe there should be a carving in marble of him? <br><br>Your review was hilarious and made me pee a little. Thanks for the late night chuckle. I will sleep on it and might one day plan a trip to a mountain village on the other side of the globe. Who knows what I will come back with! A lion, perhaps? Bahhhh. ]]></body>
+  
+  <user>
+    <id>2182961</id>
+    <name>Renee</name>
+
+    <location>Dacula, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2182961-renee-knott]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1238642247p3/2182961.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1238642247p2/2182961.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 01 20:02:34 -0700 2009</created_at>
+  <updated_at>Wed Apr 01 20:02:34 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5033206</id>
+  <body><![CDATA[Ah James, how did I miss this great review of "Twilight"??? And if all men wrote the way you do, perhaps those of us who are of the female persuasion would have less to bitch about! I had read your review of the final book in the series and appreciated it so much that I asked to be on your friend list, but somehow I didn't catch this review until today. <br><br>As you know, like Renee, I too have enjoyed the "Twilight" series, even though I feel a bit shame-faced in admitting it,and I've never been able to put my finger on quite WHAT the attraction has been. <br><br>I think you are "spot-on" with your assessment of the series' charms for women - - and I loved the male-centric version of "Twilight"! <br><br>Thanks for making my day. ]]></body>
+  
+  <user>
+    <id>165321</id>
+    <name>Cheryl</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/165321-cheryl]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1236058978p3/165321.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1236058978p2/165321.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 08 06:43:58 -0700 2009</created_at>
+  <updated_at>Wed Apr 08 06:43:58 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5034614</id>
+  <body><![CDATA[<em>Cheryl wrote: "Ah James, how did I miss this great review of "Twilight"??? And if all men wrote the way you do, perhaps those of us who are of the female persuasion would have less to bitch about! I had read your..."</em><br><br>I've really enjoyed repeating the phrase "Men are from Transylvania and women are from Forks" lately, but as I hear more comments like yours I think it's more likely that "Women wish more men were from Transylvania since they are from Forks!"]]></body>
+  
+  <user>
+    <id>911195</id>
+    <name>James</name>
+
+    <location>Needham Heights, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/911195-james]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442486484p3/911195.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442486484p2/911195.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 08 08:18:15 -0700 2009</created_at>
+  <updated_at>Wed Apr 08 08:18:15 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6104515</id>
+  <body><![CDATA[great review and kind of true!!]]></body>
+  
+  <user>
+    <id>657773</id>
+    <name>Nidia</name>
+
+    <location>Bronx, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/657773-nidia]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1281725067p3/657773.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1281725067p2/657773.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed May 27 07:20:08 -0700 2009</created_at>
+  <updated_at>Wed May 27 07:20:08 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6378804</id>
+  <body><![CDATA[A great review. In fact, I'd say your review is better written and more thought out than the books....]]></body>
+  
+  <user>
+    <id>1177534</id>
+    <name>Michael</name>
+
+    <location>Smyrna, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1177534-michael]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1428281677p3/1177534.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1428281677p2/1177534.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jun 08 06:00:58 -0700 2009</created_at>
+  <updated_at>Mon Jun 08 06:00:58 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6900532</id>
+  <body><![CDATA[Thank you so much James! Now I know how to write the next smash romantic hit! Like some other reviewers, I'm relieved that you've analyzed my strong desires to live in the world of Twilight. I know myself better now.]]></body>
+  
+  <user>
+    <id>861865</id>
+    <name>Adrienne</name>
+
+    <location>Spring, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/861865-adrienne]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1201917998p3/861865.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1201917998p2/861865.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jun 26 15:07:06 -0700 2009</created_at>
+  <updated_at>Fri Jun 26 15:07:06 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8486454</id>
+  <body><![CDATA[hi<br>please can you teach me how to rat with people like u ]]></body>
+  
+  <user>
+    <id>2635858</id>
+    <name>Gini</name>
+
+    <location>Lagos, 05, Nigeria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2635858-gini]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Aug 17 07:19:20 -0700 2009</created_at>
+  <updated_at>Mon Aug 17 07:19:20 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8757175</id>
+  <body><![CDATA[Very amusing review. Some of my friends love Twilight and others hate it, but I want them all to read your review. My husband avoided the series for a long time as "chick lit" but when he finally read it he liked the "action thriller" aspects and focused on that rather than the (insane but appealing) touchy/feely parts.]]></body>
+  
+  <user>
+    <id>369741</id>
+    <name>Dawn</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/369741-dawn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1219718301p3/369741.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1219718301p2/369741.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Aug 25 21:20:43 -0700 2009</created_at>
+  <updated_at>Tue Aug 25 21:20:43 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9274861</id>
+  <body><![CDATA[Thanks for your excellent review. I enjoyed the books, though I recognize the fantasy aspect of them. <br><br>But, I also think they are valuable in creating intergenerational discussion about some of life's important themes. Sure, the differences between men and women are there as you have so wonderfully articulated. But i think there are also some strong concepts about what does it mean to be moral? What does it mean to be different? What does it mean to seek to control your (sin) nature in a world in which others don't? Is love more about commitment or feeling? Does love change over time, should it? What about salvation - do our actions in this life matter, and how do you know? <br><br>I agree most of these are questions that appeal to women, as we tend to work out our morality in the context of relationship. But, as a discussion starter between men and women, and even more potent, a discussion starter between moms and girls, mentors and young adults Twilight has a lot to offer.]]></body>
+  
+  <user>
+    <id>1005834</id>
+    <name>Ebookwormy</name>
+
+    <location>Assisi, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1005834-ebookwormy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1434160108p3/1005834.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1434160108p2/1005834.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Sep 13 10:04:50 -0700 2009</created_at>
+  <updated_at>Sun Sep 13 10:04:50 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9275684</id>
+  <body><![CDATA[Your review is funny and insightful. Your review articulated all the reasons I actually didn’t like the series. I know, as a female, that’s just weird for me to not really care for these books… I did read them all but I agree with your three star rating. Maybe I’m not from Venus either. ]]></body>
+  
+  <user>
+    <id>2732610</id>
+    <name>Holly</name>
+
+    <location>Fredericksburg, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2732610-holly]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450479618p3/2732610.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450479618p2/2732610.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Sep 13 10:35:36 -0700 2009</created_at>
+  <updated_at>Sun Sep 13 10:35:36 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9349826</id>
+  <body><![CDATA[I havent read the book yet but your comment is very funny.]]></body>
+  
+  <user>
+    <id>2745268</id>
+    <name>Jade</name>
+
+    <location>Nantong, 04, China</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2745268-jade]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1253125853p3/2745268.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1253125853p2/2745268.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Sep 16 11:28:49 -0700 2009</created_at>
+  <updated_at>Wed Sep 16 11:28:49 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9727517</id>
+  <body><![CDATA[Although you've already heard this quite a lot: you're review was amazing. It was undeniably truthful and resonated a tone that wasn't mocking (ahaha, I do love to mock Twilight--I'm not going to lie).<br><br>I'm appalled at the positive response Meyer's half-decent writing has garnered, and being fourteen I've seen the affect it's had on young(er), impressionable females. I have friends who broke off relationships with really nice guys "for Edward", and those more drastically, who have chosen to abstain from dating until they find their "Edward". They're crazy over him for the exact reasons you listed; and they're so jaded by his impossible perfection they don't even consider finding the joys or taking the time to fall in love with peoples quirks. Anyway, I find it ludicrous; thank you for posting this! :) ]]></body>
+  
+  <user>
+    <id>2756285</id>
+    <name>Sara</name>
+
+    <location>Ossining, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2756285-sara]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1254258537p3/2756285.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1254258537p2/2756285.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Sep 30 17:04:53 -0700 2009</created_at>
+  <updated_at>Wed Sep 30 17:04:53 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10452929</id>
+  <body><![CDATA[Oh my heavens!! I cann't tell you how true that is and how hard I laughed. Hilarious. ]]></body>
+  
+  <user>
+    <id>1286197</id>
+    <name>Siera</name>
+
+    <location>Tooele, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1286197-siera]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1253141795p3/1286197.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1253141795p2/1286197.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 28 11:03:15 -0700 2009</created_at>
+  <updated_at>Wed Oct 28 11:03:15 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>12141796</id>
+  <body><![CDATA[That was very funny!<br><br><em>So far I have yet see spam email inviting one to "read hot things devoted husbands would say to their wives" or "see pictures of hunks promising not to get nasty out of respect for their women" or "buy this purple pill so you can stay up late and share your feelings -- seven times in one night!."</em><br><br>Have you seen the Mr Wonderful doll? <a target="_blank" href="http://stuck-on-you.com/mrkeychain.html" rel="nofollow">http://stuck-on-you.com/mrkeychain.html</a>]]></body>
+  
+  <user>
+    <id>1713956</id>
+    <name>Manny</name>
+
+    <location>Geneva, Switzerland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1713956-manny]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442491692p3/1713956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442491692p2/1713956.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Dec 29 02:41:53 -0800 2009</created_at>
+  <updated_at>Tue Dec 29 02:41:53 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>12142178</id>
+  <body><![CDATA[Ha! I love the Mr. Wonderful doll, reminds me of the Porn for Women calendar I saw recently in a gift shop (<a target="_blank" href="http://www.wannasnuggle.com/index/" rel="nofollow">http://www.wannasnuggle.com/index/</a> -- don't worry, no porn is actually harmed in the making of this calendar, it's all hunky men fully clothed doing the dishes, vacuuming, and offering to watch chick flicks).<br><br>]]></body>
+  
+  <user>
+    <id>911195</id>
+    <name>James</name>
+
+    <location>Needham Heights, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/911195-james]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442486484p3/911195.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442486484p2/911195.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Dec 29 04:31:00 -0800 2009</created_at>
+  <updated_at>Tue Dec 29 04:31:00 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>12180416</id>
+  <body><![CDATA[This was the most enjoyable review of Twilight I've ever read.]]></body>
+  
+  <user>
+    <id>1156268</id>
+    <name>Robin</name>
+
+    <location>Lunenburg, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1156268-robin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1230555222p3/1156268.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1230555222p2/1156268.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Dec 30 05:35:43 -0800 2009</created_at>
+  <updated_at>Wed Dec 30 05:35:43 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>12214920</id>
+  <body><![CDATA[I agree with Robin. I have emailed this review to people a billion times. Your analysis is just so accurate, and you expose the truth about the book in a way that answers all my questions about why I like the novel even as I recognize that, as literature, it pretty much sucks. Nevertheless, I continue to read it... Honestly, your review is fabulous. Published books or no, you do have a way with words! Good luck with that, by the way! ]]></body>
+  
+  <user>
+    <id>2167027</id>
+    <name>Jennifer</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2167027-jennifer]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1238590820p3/2167027.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1238590820p2/2167027.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Dec 30 21:20:46 -0800 2009</created_at>
+  <updated_at>Wed Dec 30 21:20:46 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>14641458</id>
+  <body><![CDATA[How can so many people miss the satirical tone of the review... or am I wrong.<br><br>Women need to get a grip and accept men for who they are and stop fantacising about what they could be. Men don't have vaginas therefore they will never measure up to a woman's expectations. When women finally understand this there will probably be fewer divorces.<br><br>Contrary to what post modernism wants us to believe, there are huge differences between the way men and women think.]]></body>
+  
+  <user>
+    <id>2425619</id>
+    <name>Shannon</name>
+
+    <location>Edmonton, AB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2425619-shannon]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1438201177p3/2425619.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1438201177p2/2425619.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Mar 16 06:32:00 -0700 2010</created_at>
+  <updated_at>Tue Mar 16 06:32:00 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16563135</id>
+  <body><![CDATA[I loved your review, mostly because you put into simple language all my conflicting emotions over these books. I have been reading them non-stop for two weeks (even neglecting my beloved Jane Austen :0 ). As an English major and lifelong lover of books, I have been unable to reconcile this obsession I have with this series of books that clearly need lots of editing and reshaping. I am forwarding this review to my husband so that he will understand why I have become so "unlike myself".]]></body>
+  
+  <user>
+    <id>2623195</id>
+    <name>Susan</name>
+
+    <location>Clarence, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2623195-susan]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1447300685p3/2623195.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1447300685p2/2623195.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed May 12 06:55:54 -0700 2010</created_at>
+  <updated_at>Wed May 12 06:55:54 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>17349394</id>
+  <body><![CDATA[Just saying, vampiress is a sexist term. I'm not extremely offended or anything, but come on now, a female vampire is still a vampire.]]></body>
+  
+  <user>
+    <id>2326764</id>
+    <name>Katie</name>
+
+    <location>Sherman, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2326764-katie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jun 04 17:41:22 -0700 2010</created_at>
+  <updated_at>Fri Jun 04 17:41:22 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>17517866</id>
+  <body><![CDATA[Your review was very insightful. I hate how people say there was too much details and that Stephenie Meyer is anti feminist. All you simply did was explain the appeal it has to women and did it in a very respectful way. Unlike some of the other inmature men who thought it would be funny to bash it.]]></body>
+  
+  <user>
+    <id>3819662</id>
+    <name>Heather</name>
+
+    <location>Palo Alto, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3819662-heather]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Jun 09 17:51:49 -0700 2010</created_at>
+  <updated_at>Wed Jun 09 17:51:49 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>17589911</id>
+  <body><![CDATA[Very insightful review but most intelligent and well read women do not like this book.. It's mostly marketed for over-sexed tweens and under-sexed middle aged women! <br>The reason Edward and Bella don't have sex until after they are married is because the book is written by a Mormon..]]></body>
+  
+  <user>
+    <id>3829423</id>
+    <name>Jessie</name>
+
+    <location>Sydney, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3829423-jessie-r]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1384692650p3/3829423.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1384692650p2/3829423.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jun 11 19:58:26 -0700 2010</created_at>
+  <updated_at>Fri Jun 11 19:58:26 -0700 2010</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/26448271]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/26448271]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[3WTEwSejHvuT5V3nGcmjA]]></key>
+    <method><![CDATA[user_show]]></method>
+  </Request>
+  <user>
+  <id>5834647</id>
+  <name>Jared Vincent Lacaran</name>
+  <user_name>crownedclown</user_name>
+  <link><![CDATA[https://www.goodreads.com/user/show/5834647-jared-vincent-lacaran]]></link>
+  <image_url><![CDATA[https://d.gr-assets.com/users/1434268152p3/5834647.jpg]]></image_url>
+  <small_image_url><![CDATA[https://d.gr-assets.com/users/1434268152p2/5834647.jpg]]></small_image_url>
+    <about><![CDATA[BEEN INACTIVE HERE FOR OVER A YEAR. I JUST LOG IN OCCASIONALLY SINCE I'M ALWAYS TOO BUSY BUT I'LL BE BACK ONCE THINGS FINALLY WIND DOWN<br><br><a href="https://www.facebook.com/jaredlacaran" target="_TOP" title="Jared Vincent Lacaran" rel="nofollow">Jared Vincent Lacaran</a> | <a href="https://www.facebook.com/badges/" target="_TOP" rel="nofollow">
+  <img src="https://i.gr-assets.com/images/S/photo.goodreads.com/hostedimages/1386549747i/7389297.png" class="escapedImg"></a><br><br>Hi, I'm Jared and I'm straight. I hate Twilight, James Patterson, and Justin Bieber. Ciao :)]]></about>
+    <age>20</age>
+    <gender>male</gender>
+    <location>Taguig, 1631, Philippines</location>
+    <website><![CDATA[http://twitter.com/jaredlacaran]]></website>
+    <joined>07/2011</joined>
+    <last_active>01/2016</last_active>
+    <interests></interests>
+    <favorite_books><![CDATA[High fantasy, urban fantasy, science fiction, and romance :)]]></favorite_books>
+    <favorite_authors>
+        <author>
+  <id type="integer">1221698</id>
+  <name>Neil Gaiman</name>
+</author>
+        <author>
+  <id type="integer">1077326</id>
+  <name>J.K. Rowling</name>
+</author>
+        <author>
+  <id type="integer">1406384</id>
+  <name>John Green</name>
+</author>
+        <author>
+  <id type="integer">10746</id>
+  <name>Jim Butcher</name>
+</author>
+        <author>
+  <id type="integer">1370283</id>
+  <name>Brent Weeks</name>
+</author>
+        <author>
+  <id type="integer">11466</id>
+  <name>Markus Zusak</name>
+</author>
+    </favorite_authors>
+    <updates_rss_url><![CDATA[https://www.goodreads.com/user/updates_rss/5834647?key=pZMpn2T6VdHD-4bYpLBvDtgr7qqTSdA-nEo8ojLQYRpr4iDz]]></updates_rss_url>
+    <reviews_rss_url><![CDATA[https://www.goodreads.com/review/list_rss/5834647?key=pZMpn2T6VdHD-4bYpLBvDtgr7qqTSdA-nEo8ojLQYRpr4iDz&shelf=%23ALL%23]]></reviews_rss_url>
+    <friends_count type="integer">756</friends_count>
+    <groups_count>8</groups_count>
+    <reviews_count type="integer">1858</reviews_count>
+    <user_shelves type="array">
+  <user_shelf>
+    <id type="integer">18969691</id>
+    <name>read</name>
+    <book_count type="integer">1045</book_count>
+    <exclusive_flag type="boolean">true</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">18969695</id>
+    <name>currently-reading</name>
+    <book_count type="integer">4</book_count>
+    <exclusive_flag type="boolean">true</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">18969683</id>
+    <name>to-read</name>
+    <book_count type="integer">809</book_count>
+    <exclusive_flag type="boolean">true</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order>a</order>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">20579882</id>
+    <name>all-time-favourites</name>
+    <book_count type="integer">51</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">true</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23765100</id>
+    <name>books-that-disappointed-me</name>
+    <book_count type="integer">5</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">22776778</id>
+    <name>books-that-i-fucking-hate</name>
+    <book_count type="integer">15</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">false</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23765574</id>
+    <name>borrowed</name>
+    <book_count type="integer">5</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23766240</id>
+    <name>cant-find-my-copy</name>
+    <book_count type="integer">9</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">22776983</id>
+    <name>childhood</name>
+    <book_count type="integer">5</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">22776752</id>
+    <name>classics</name>
+    <book_count type="integer">20</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">37488536</id>
+    <name>didnt-read</name>
+    <book_count type="integer">0</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23765562</id>
+    <name>ebooks</name>
+    <book_count type="integer">8</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">22780641</id>
+    <name>filipino-literature</name>
+    <book_count type="integer">4</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">35612262</id>
+    <name>fuck-this-shit</name>
+    <book_count type="integer">2</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">22780808</id>
+    <name>gave-up-on</name>
+    <book_count type="integer">19</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">false</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23765795</id>
+    <name>i-like-this-shit</name>
+    <book_count type="integer">27</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">47469363</id>
+    <name>i-love-you-mr-sanderson</name>
+    <book_count type="integer">7</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23767792</id>
+    <name>im-never-gonna-read-this-shit</name>
+    <book_count type="integer">1</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">35794106</id>
+    <name>kinky-fuckery</name>
+    <book_count type="integer">1</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">22776764</id>
+    <name>magic</name>
+    <book_count type="integer">128</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23765021</id>
+    <name>manga</name>
+    <book_count type="integer">62</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23765525</id>
+    <name>non-fiction</name>
+    <book_count type="integer">5</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23763536</id>
+    <name>owned</name>
+    <book_count type="integer">62</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23765009</id>
+    <name>penis</name>
+    <book_count type="integer">7</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23765493</id>
+    <name>picture-books</name>
+    <book_count type="integer">2</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">37488540</id>
+    <name>rant</name>
+    <book_count type="integer">1</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23765522</id>
+    <name>re-read</name>
+    <book_count type="integer">54</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">21595555</id>
+    <name>skimmed</name>
+    <book_count type="integer">34</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">37488547</id>
+    <name>suck-my-dick-mr-sparks</name>
+    <book_count type="integer">1</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">37493098</id>
+    <name>threw-it-on-the-ground</name>
+    <book_count type="integer">1</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">22449456</id>
+    <name>to-be-reviewed</name>
+    <book_count type="integer">37</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">21583897</id>
+    <name>unfinished</name>
+    <book_count type="integer">54</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23766294</id>
+    <name>why-did-i-even-bother</name>
+    <book_count type="integer">21</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23765811</id>
+    <name>will-read-later</name>
+    <book_count type="integer">12</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">23765509</id>
+    <name>wishlist</name>
+    <book_count type="integer">0</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">22776799</id>
+    <name>young-adult</name>
+    <book_count type="integer">115</book_count>
+    <exclusive_flag type="boolean">false</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields></display_fields>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+</user_shelves>
+      <updates type="array">
+      <update type="friend">
+      <action_text><![CDATA[is now friends with Kix Panganiban]]></action_text>
+      <link>https://www.goodreads.com/user/show/50405952-kix-panganiban</link>
+      <image_url>https://d.gr-assets.com/users/1450926279p2/50405952.jpg</image_url>
+        <actor>
+  <id type="integer">5834647</id>
+  <name>Jared Vincent Lacaran</name>
+  <image_url>https://d.gr-assets.com/users/1434268152p2/5834647.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/5834647-jared-vincent-lacaran</link>
+</actor>
+      <updated_at>Wed, 23 Dec 2015 19:05:16 -0800</updated_at>
+    </update>
+      <update type="userquote">
+      <action_text>liked a quote</action_text>
+      <link>https://www.goodreads.com/quotes/8750</link>
+      <image_url>https://d.gr-assets.com/users/1434268152p2/5834647.jpg</image_url>
+        <actor>
+  <id type="integer">5834647</id>
+  <name>Jared Vincent Lacaran</name>
+  <image_url>https://d.gr-assets.com/users/1434268152p2/5834647.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/5834647-jared-vincent-lacaran</link>
+</actor>
+      <updated_at>Thu, 08 Oct 2015 06:04:11 -0700</updated_at>
+        <body><![CDATA[I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.]]></body>
+    </update>
+      <update type="userstatus">
+      <action_text>added a status update:</action_text>
+      <link>https://www.goodreads.com/user_status/show/77414671</link>
+      <image_url>https://d.gr-assets.com/users/1434268152p2/5834647.jpg</image_url>
+        <actor>
+  <id type="integer">5834647</id>
+  <name>Jared Vincent Lacaran</name>
+  <image_url>https://d.gr-assets.com/users/1434268152p2/5834647.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/5834647-jared-vincent-lacaran</link>
+</actor>
+      <updated_at>Mon, 05 Oct 2015 06:58:12 -0700</updated_at>
+        <object>
+          <user_status>
+  <id type="integer">77414671</id>
+  <user_id type="integer">5834647</user_id>
+  <book_id type="integer" nil="true"/>
+  <page type="integer" nil="true"/>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body>Hey Goodreads wassup haha been sooo long I was last here lol</body>
+  <created_at type="datetime">2015-10-05T13:58:12+00:00</created_at>
+  <updated_at type="datetime">2015-10-05T13:58:12+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer" nil="true"/>
+  <work_id type="integer" nil="true"/>
+  <note_uri nil="true"/>
+  <note_updated_at type="datetime" nil="true"/>
+  <review_id nil="true"/>
+</user_status>
+        </object>
+        <body><![CDATA[Hey Goodreads wassup haha been sooo long I was last here lol]]></body>
+    </update>
+      <update type="userquote">
+      <action_text>liked a quote</action_text>
+      <link>https://www.goodreads.com/quotes/578850</link>
+      <image_url>https://d.gr-assets.com/users/1434268152p2/5834647.jpg</image_url>
+        <actor>
+  <id type="integer">5834647</id>
+  <name>Jared Vincent Lacaran</name>
+  <image_url>https://d.gr-assets.com/users/1434268152p2/5834647.jpg</image_url>
+  <link>https://www.goodreads.com/user/show/5834647-jared-vincent-lacaran</link>
+</actor>
+      <updated_at>Sun, 09 Aug 2015 03:33:15 -0700</updated_at>
+        <body><![CDATA[But only people you care about can hurt you. That doesn't mean I love her. Hate is not the opposite of love; not caring is. And as long as I hate her, I still care about her, and she has the power to hurt me. To make me hate myself.]]></body>
+    </update>
+</updates>
+    <user_statuses>
+    </user_statuses>
+</user>
+
+</GoodreadsResponse>

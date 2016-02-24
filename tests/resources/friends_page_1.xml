@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[3WTEwSejHvuT5V3nGcmjA]]></key>
+    <method><![CDATA[friend_user]]></method>
+  </Request>
+  <friends start="1" end="30" total="148">
+    <user>
+      <id>347094</id>
+      <name>Laura</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/347094-laura]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1360632434p3/347094.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1360632434p2/347094.jpg]]></small_image_url>
+      <friends_count>3448</friends_count>
+      <reviews_count>2170</reviews_count>
+            <created_at>Mon Jun 01 06:30:34 -0700 2009</created_at>
+    </user>
+    <user>
+      <id>2726439</id>
+      <name>Scooping it Up</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/2726439-scooping-it-up]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1332918193p3/2726439.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1332918193p2/2726439.jpg]]></small_image_url>
+      <friends_count>216</friends_count>
+      <reviews_count>1080</reviews_count>
+            <created_at>Wed Sep 23 07:02:07 -0700 2009</created_at>
+    </user>
+    <user>
+      <id>813888</id>
+      <name>Suzy</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/813888-suzy]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1202190094p3/813888.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1202190094p2/813888.jpg]]></small_image_url>
+      <friends_count>54</friends_count>
+      <reviews_count>104</reviews_count>
+            <created_at>Fri Nov 28 04:38:09 -0800 2008</created_at>
+    </user>
+    <user>
+      <id>1295401</id>
+      <name>Diane Chamberlain</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/1295401-diane-chamberlain]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1366490186p3/1295401.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1366490186p2/1295401.jpg]]></small_image_url>
+      <friends_count>2678</friends_count>
+      <reviews_count>240</reviews_count>
+            <created_at>Mon Apr 06 15:46:48 -0700 2009</created_at>
+    </user>
+    <user>
+      <id>920440</id>
+      <name>Andrea</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/920440-andrea]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1203546663p3/920440.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1203546663p2/920440.jpg]]></small_image_url>
+      <friends_count>83</friends_count>
+      <reviews_count>218</reviews_count>
+            <created_at>Sat Feb 23 08:39:18 -0800 2008</created_at>
+    </user>
+    <user>
+      <id>1005834</id>
+      <name>Ebookwormy</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/1005834-ebookwormy]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1434160108p3/1005834.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1434160108p2/1005834.jpg]]></small_image_url>
+      <friends_count>65</friends_count>
+      <reviews_count>2869</reviews_count>
+            <created_at>Wed Sep 23 07:02:24 -0700 2009</created_at>
+    </user>
+    <user>
+      <id>165321</id>
+      <name>Cheryl</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/165321-cheryl]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1236058978p3/165321.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1236058978p2/165321.jpg]]></small_image_url>
+      <friends_count>52</friends_count>
+      <reviews_count>654</reviews_count>
+            <created_at>Thu Mar 12 12:43:16 -0700 2009</created_at>
+    </user>
+    <user>
+      <id>2176078</id>
+      <name>Vania</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/2176078-vania]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1270572939p3/2176078.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1270572939p2/2176078.jpg]]></small_image_url>
+      <friends_count>1417</friends_count>
+      <reviews_count>1694</reviews_count>
+            <created_at>Mon Jun 01 06:31:43 -0700 2009</created_at>
+    </user>
+    <user>
+      <id>2859056</id>
+      <name>Toni</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/2859056-toni]]></link>
+      <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+      <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+      <friends_count>50</friends_count>
+      <reviews_count>199</reviews_count>
+            <created_at>Fri Aug 29 11:47:11 -0700 2014</created_at>
+    </user>
+    <user>
+      <id>2594660</id>
+      <name>Guy Gonzalez</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/2594660-guy-gonzalez]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1364260145p3/2594660.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1364260145p2/2594660.jpg]]></small_image_url>
+      <friends_count>904</friends_count>
+      <reviews_count>530</reviews_count>
+            <created_at>Tue Jan 05 18:12:40 -0800 2010</created_at>
+    </user>
+    <user>
+      <id>904297</id>
+      <name>Tanya</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/904297-tanya]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1428093868p3/904297.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1428093868p2/904297.jpg]]></small_image_url>
+      <friends_count>57</friends_count>
+      <reviews_count>162</reviews_count>
+            <created_at>Wed Feb 27 07:21:07 -0800 2008</created_at>
+    </user>
+    <user>
+      <id>1127870</id>
+      <name><![CDATA[Simon_Cleveland_Ph.D. Simon_Cleveland_Ph.D.]]></name>
+      <link><![CDATA[https://www.goodreads.com/user/show/1127870-simon-cleveland-ph-d-simon-cleveland-ph-d]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1442439498p3/1127870.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1442439498p2/1127870.jpg]]></small_image_url>
+      <friends_count>765</friends_count>
+      <reviews_count>745</reviews_count>
+            <created_at>Thu Jun 18 20:03:31 -0700 2009</created_at>
+    </user>
+    <user>
+      <id>19254609</id>
+      <name>Joanne Hartle</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/19254609-joanne-hartle]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1365520275p3/19254609.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1365520275p2/19254609.jpg]]></small_image_url>
+      <friends_count>66</friends_count>
+      <reviews_count>708</reviews_count>
+            <created_at>Tue Apr 09 08:11:26 -0700 2013</created_at>
+    </user>
+    <user>
+      <id>900442</id>
+      <name>Megan</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/900442-megan]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1202831983p3/900442.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1202831983p2/900442.jpg]]></small_image_url>
+      <friends_count>275</friends_count>
+      <reviews_count>997</reviews_count>
+            <created_at>Fri Feb 15 09:12:26 -0800 2008</created_at>
+    </user>
+    <user>
+      <id>93543</id>
+      <name>Amy</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/93543-amy]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1287512431p3/93543.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1287512431p2/93543.jpg]]></small_image_url>
+      <friends_count>51</friends_count>
+      <reviews_count>196</reviews_count>
+            <created_at>Tue Dec 29 20:14:51 -0800 2015</created_at>
+    </user>
+    <user>
+      <id>43394325</id>
+      <name>James Gebler</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/43394325-james-gebler]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1432568703p3/43394325.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1432568703p2/43394325.jpg]]></small_image_url>
+      <friends_count>11</friends_count>
+      <reviews_count>23</reviews_count>
+            <created_at>Mon May 25 08:45:10 -0700 2015</created_at>
+    </user>
+    <user>
+      <id>2065514</id>
+      <name>Michael</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/2065514-michael]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1442612806p3/2065514.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1442612806p2/2065514.jpg]]></small_image_url>
+      <friends_count>270</friends_count>
+      <reviews_count>905</reviews_count>
+            <created_at>Tue May 05 06:14:59 -0700 2009</created_at>
+    </user>
+    <user>
+      <id>900828</id>
+      <name>Erin</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/900828-erin]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1248718358p3/900828.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1248718358p2/900828.jpg]]></small_image_url>
+      <friends_count>113</friends_count>
+      <reviews_count>415</reviews_count>
+            <created_at>Mon Feb 25 05:09:56 -0800 2008</created_at>
+    </user>
+    <user>
+      <id>45631517</id>
+      <name>Connor Wood</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/45631517-connor-wood]]></link>
+      <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+      <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+      <friends_count>12</friends_count>
+      <reviews_count>191</reviews_count>
+            <created_at>Mon Aug 03 04:37:13 -0700 2015</created_at>
+    </user>
+    <user>
+      <id>141851</id>
+      <name>Lauren</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/141851-lauren]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1184558299p3/141851.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1184558299p2/141851.jpg]]></small_image_url>
+      <friends_count>58</friends_count>
+      <reviews_count>589</reviews_count>
+        <user_status>
+  <id type="integer">83064791</id>
+  <page type="integer">0</page>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body></body>
+  <created_at type="datetime">2015-12-27T05:27:03+00:00</created_at>
+  <updated_at type="datetime">2015-12-27T05:27:03+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer">0</percent>
+  <work_id type="integer">41125521</work_id>
+  <note_uri nil="true"/>
+  <note_updated_at type="datetime" nil="true"/>
+<book>
+  <id type="integer">21853621</id>
+  <isbn>0312577222</isbn>
+  <isbn13>9780312577223</isbn13>
+  <text_reviews_count type="integer">12854</text_reviews_count>
+  <title>The Nightingale</title>
+  <image_url>https://d.gr-assets.com/books/1451446316m/21853621.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1451446316s/21853621.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21853621-the-nightingale</link>
+  <num_pages>440</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>St. Martin's Press</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.53</average_rating>
+  <ratings_count>104434</ratings_count>
+  <description>&lt;em&gt;In love we find out who we want to be.&lt;br&gt;In war we find out who we are.&lt;/em&gt;&lt;br&gt;&lt;br&gt;FRANCE, 1939&lt;br&gt;&lt;br&gt;In the quiet village of Carriveau, Vianne Mauriac says goodbye to her husband, Antoine, as he heads for the Front. She doesn’t believe that the Nazis will invade France...but invade they do, in droves of marching soldiers, in caravans of trucks and tanks, in planes that fill the skies and drop bombs upon the innocent. When France is overrun, Vianne is forced to take an enemy into her house, and suddenly her every move is watched; her life and her child’s life is at constant risk. Without food or money or hope, as danger escalates around her, she must make one terrible choice after another. &lt;br&gt;&lt;br&gt;Vianne’s sister, Isabelle, is a rebellious eighteen-year-old girl, searching for purpose with all the reckless passion of youth. While thousands of Parisians march into the unknown terrors of war, she meets the compelling and mysterious Gäetan, a partisan who believes the French can fight the Nazis from within France, and she falls in love as only the young can...completely. When he betrays her, Isabelle races headlong into danger and joins the Resistance, never looking back or giving a thought to the real--and deadly--consequences.&lt;br&gt;&lt;br&gt;With courage, grace and powerful insight, bestselling author Kristin Hannah takes her talented pen to the epic panorama of WWII and illuminates an intimate part of history seldom seen: the women’s war. &lt;em&gt;The Nightingale&lt;/em&gt; tells the stories of two sisters, separated by years and experience, by ideals, passion and circumstance, each embarking on her own dangerous path toward survival, love, and freedom in German-occupied, war-torn France--a heartbreakingly beautiful novel that celebrates the resilience of the human spirit and the durability of women. It is a novel for everyone, a novel for a lifetime.</description>
+<authors>
+<author>
+<id>54493</id>
+<name>Kristin Hannah</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1417050721p5/54493.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1417050721p2/54493.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/54493.Kristin_Hannah]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>570639</ratings_count>
+<text_reviews_count>56555</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+</user_status>
+
+            <created_at>Tue May 05 06:15:46 -0700 2009</created_at>
+    </user>
+    <user>
+      <id>487107</id>
+      <name>Lee Bullitt</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/487107-lee-bullitt]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1354286120p3/487107.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1354286120p2/487107.jpg]]></small_image_url>
+      <friends_count>63</friends_count>
+      <reviews_count>610</reviews_count>
+        <user_status>
+  <id type="integer">84271215</id>
+  <page type="integer">175</page>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body></body>
+  <created_at type="datetime">2016-01-07T16:57:53+00:00</created_at>
+  <updated_at type="datetime">2016-01-07T16:57:53+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer">96</percent>
+  <work_id type="integer">1343495</work_id>
+  <note_uri nil="true"/>
+  <note_updated_at type="datetime" nil="true"/>
+<book>
+  <id type="integer">27275462</id>
+  <isbn>0811201171</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Death in Midsummer and Other Stories</title>
+  <image_url>https://d.gr-assets.com/books/1449556241m/27275462.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1449556241s/27275462.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27275462-death-in-midsummer-and-other-stories</link>
+  <num_pages>181</num_pages>
+  <format>Paperback</format>
+  <edition_information>Twenty-First Printing</edition_information>
+  <publisher>New Directions Publishing Corporation</publisher>
+  <publication_day/>
+  <publication_year>1966</publication_year>
+  <publication_month/>
+  <average_rating>4.10</average_rating>
+  <ratings_count>1869</ratings_count>
+  <description>Recognized throughout the world for his brilliance as a novelist and playwright, Yokio Mishima is also noted as a master of the short story in his native Japan, where the form is practiced as a major art.</description>
+<authors>
+<author>
+<id>35258</id>
+<name>Yukio Mishima</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1213653898p5/35258.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1213653898p2/35258.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/35258.Yukio_Mishima]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>51362</ratings_count>
+<text_reviews_count>3291</text_reviews_count>
+</author>
+</authors>
+  <published>1966</published>
+</book>
+
+</user_status>
+
+            <created_at>Tue Aug 25 19:52:22 -0700 2009</created_at>
+    </user>
+    <user>
+      <id>1121249</id>
+      <name>Andrew Hill</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/1121249-andrew-hill]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1309720906p3/1121249.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1309720906p2/1121249.jpg]]></small_image_url>
+      <friends_count>26</friends_count>
+      <reviews_count>1320</reviews_count>
+            <created_at>Thu Jun 18 20:02:50 -0700 2009</created_at>
+    </user>
+    <user>
+      <id>2530712</id>
+      <name>Moumita</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/2530712-moumita]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1386625028p3/2530712.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1386625028p2/2530712.jpg]]></small_image_url>
+      <friends_count>71</friends_count>
+      <reviews_count>344</reviews_count>
+            <created_at>Tue Oct 05 18:20:29 -0700 2010</created_at>
+    </user>
+    <user>
+      <id>1069128</id>
+      <name>Lindsay</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/1069128-lindsay]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1207871441p3/1069128.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1207871441p2/1069128.jpg]]></small_image_url>
+      <friends_count>40</friends_count>
+      <reviews_count>298</reviews_count>
+        <user_status>
+  <id type="integer">69769346</id>
+  <page type="integer">0</page>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body></body>
+  <created_at type="datetime">2015-06-28T05:47:39+00:00</created_at>
+  <updated_at type="datetime">2015-06-28T05:47:39+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer">0</percent>
+  <work_id type="integer">41876730</work_id>
+  <note_uri nil="true"/>
+  <note_updated_at type="datetime" nil="true"/>
+<book>
+  <id type="integer">22544764</id>
+  <isbn>0804179034</isbn>
+  <isbn13>9780804179034</isbn13>
+  <text_reviews_count type="integer">4275</text_reviews_count>
+  <title>Uprooted</title>
+  <image_url>https://d.gr-assets.com/books/1420795060m/22544764.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1420795060s/22544764.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22544764-uprooted</link>
+  <num_pages>435</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Del Rey</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.19</average_rating>
+  <ratings_count>26556</ratings_count>
+  <description>&lt;em&gt;“Our Dragon doesn’t eat the girls he takes, no matter what stories they tell outside our valley. We hear them sometimes, from travelers passing through. They talk as though we were doing human sacrifice, and he were a real dragon. Of course that’s not true: he may be a wizard and immortal, but he’s still a man, and our fathers would band together and kill him if he wanted to eat one of us every ten years. He protects us against the Wood, and we’re grateful, but not that grateful.”&lt;/em&gt;&lt;br&gt;&lt;br&gt;Agnieszka loves her valley home, her quiet village, the forests and the bright shining river. But the corrupted Wood stands on the border, full of malevolent power, and its shadow lies over her life.&lt;br&gt;&lt;br&gt;Her people rely on the cold, driven wizard known only as the Dragon to keep its powers at bay. But he demands a terrible price for his help: one young woman handed over to serve him for ten years, a fate almost as terrible as falling to the Wood.&lt;br&gt;&lt;br&gt;The next choosing is fast approaching, and Agnieszka is afraid. She knows—&lt;em&gt;everyone&lt;/em&gt; knows—that the Dragon will take Kasia: beautiful, graceful, brave Kasia, all the things Agnieszka isn’t, and her dearest friend in the world. And there is no way to save her.&lt;br&gt;&lt;br&gt;But Agnieszka fears the wrong things. For when the Dragon comes, it is not Kasia he will choose.</description>
+<authors>
+<author>
+<id>8730</id>
+<name>Naomi Novik</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1206646770p5/8730.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1206646770p2/8730.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8730.Naomi_Novik]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>187157</ratings_count>
+<text_reviews_count>16916</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+</user_status>
+
+            <created_at>Fri Feb 04 19:47:15 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>906395</id>
+      <name>Sandy</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/906395-sandy]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1226335070p3/906395.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1226335070p2/906395.jpg]]></small_image_url>
+      <friends_count>35</friends_count>
+      <reviews_count>152</reviews_count>
+        <user_status>
+  <id type="integer">1959259</id>
+  <page type="integer">230</page>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body></body>
+  <created_at type="datetime">2010-01-26T18:30:20+00:00</created_at>
+  <updated_at type="datetime">2010-01-26T18:30:20+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer" nil="true"/>
+  <work_id type="integer" nil="true"/>
+  <note_uri nil="true"/>
+  <note_updated_at type="datetime" nil="true"/>
+<book>
+  <id type="integer">6558145</id>
+  <isbn>1416546804</isbn>
+  <isbn13>9781416546801</isbn13>
+  <text_reviews_count type="integer">157</text_reviews_count>
+  <title>Abigail Adams</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6558145-abigail-adams</link>
+  <num_pages>483</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Free Press</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>1103</ratings_count>
+  <description>&lt;br&gt;Prof. Woody Holton (NBA-finalist for &lt;em&gt;Unruly Americans&lt;/em&gt;) reveals that American icon Abigail Adams was far wiser and wilier than previously known.</description>
+<authors>
+<author>
+<id>253522</id>
+<name>Woody Holton</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/253522.Woody_Holton]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>1558</ratings_count>
+<text_reviews_count>227</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+</user_status>
+
+            <created_at>Sun Feb 24 12:05:36 -0800 2008</created_at>
+    </user>
+    <user>
+      <id>596085</id>
+      <name>Joy</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/596085-joy]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1195240608p3/596085.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1195240608p2/596085.jpg]]></small_image_url>
+      <friends_count>95</friends_count>
+      <reviews_count>428</reviews_count>
+            <created_at>Tue May 05 06:15:50 -0700 2009</created_at>
+    </user>
+    <user>
+      <id>5231566</id>
+      <name>Peter</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/5231566-peter]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1335927885p3/5231566.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1335927885p2/5231566.jpg]]></small_image_url>
+      <friends_count>74</friends_count>
+      <reviews_count>270</reviews_count>
+        <user_status>
+  <id type="integer">83990513</id>
+  <page type="integer" nil="true"/>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body></body>
+  <created_at type="datetime">2016-01-05T05:01:08+00:00</created_at>
+  <updated_at type="datetime">2016-01-05T05:01:08+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer">25</percent>
+  <work_id type="integer">16921250</work_id>
+  <note_uri nil="true"/>
+  <note_updated_at type="datetime" nil="true"/>
+<book>
+  <id type="integer">11958983</id>
+  <isbn>140006693X</isbn>
+  <isbn13>9781400066933</isbn13>
+  <text_reviews_count type="integer">213</text_reviews_count>
+  <title>Eisenhower in War and Peace</title>
+  <image_url>https://d.gr-assets.com/books/1333579846m/11958983.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1333579846s/11958983.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11958983-eisenhower-in-war-and-peace</link>
+  <num_pages>976</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Random House</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>2503</ratings_count>
+  <description>&lt;strong&gt;NAMED ONE OF THE BEST BOOKS OF THE YEAR BY&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;
+  &lt;em&gt;The Christian Science Monitor • St. Louis Post-Dispatch&lt;/em&gt;
+&lt;/strong&gt;&lt;br&gt;&lt;br&gt;In his magisterial bestseller &lt;em&gt;FDR, &lt;/em&gt;Jean Edward Smith gave us a fresh, modern look at one of the most indelible figures in American history. Now this peerless biographer returns with a new life of Dwight D. Eisenhower that is as full, rich, and revealing as anything ever written about America’s thirty-fourth president. As America searches for new heroes to lead it out of its present-day predicaments, Jean Edward Smith’s achievement lies in reintroducing us to a hero from the past whose virtues have become clouded in the mists of history. &lt;br&gt;&lt;br&gt;Here is Eisenhower the young dreamer, charting a course from Abilene, Kansas, to West Point, to Paris under Pershing, and beyond. Drawing on a wealth of untapped primary sources, Smith provides new insight into Ike’s maddening apprenticeship under Douglas MacArthur in Washington and the Philippines. Then the whole panorama of World War II unfolds, with Eisenhower’s superlative generalship forging the Allied path to victory through multiple reversals of fortune in North Africa and Italy, culminating in the triumphant invasion of Normandy. Smith also gives us an intriguing examination of Ike’s finances, details his wartime affair with Kay Summersby, and reveals the inside story of the 1952 Republican convention that catapulted him to the White House.&lt;br&gt;&lt;br&gt;Smith’s chronicle of Eisenhower’s presidential years is as compelling as it is comprehensive. Derided by his detractors as a somnambulant caretaker, Eisenhower emerges in Smith’s perceptive retelling as both a canny politician and a skillful, decisive leader. Smith convincingly portrays an Eisenhower who engineered an end to America’s three-year no-win war in Korea, resisted calls for preventative wars against the Soviet Union and China, and boldly deployed the Seventh Fleet to protect Formosa from invasion. This Eisenhower, Smith shows us, stared down Khrushchev over Berlin and forced the withdrawal of British, French, and Israeli forces from the Suez Canal. He managed not only to keep the peace—after Ike made peace in Korea, not one American soldier was killed in action during his tenure—but also to enhance America’s prestige in the Middle East and throughout the world.&lt;br&gt;&lt;br&gt;Domestically, Eisenhower reduced defense spending, balanced the budget, constructed the interstate highway system, and provided social security coverage for millions who were self-employed. Ike believed that traditional American values encompassed change and progress.&lt;br&gt;&lt;br&gt;Unmatched in insight, &lt;em&gt;Eisenhower in War and Peace&lt;/em&gt; at last gives us an Eisenhower for &lt;em&gt;our&lt;/em&gt; time—and for the ages.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Praise for &lt;em&gt;Eisenhower in War and Peace&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;
+  &lt;em&gt; &lt;/em&gt;
+&lt;/strong&gt;&lt;br&gt; “[A] fine new biography . . . [Eisenhower’s] White House years need a more thorough exploration than many previous biographers have given them. Smith, whose long, distinguished career includes superb one-volume biographies of Grant and Franklin Roosevelt, provides just that.”&lt;em&gt;—The Washington Post&lt;/em&gt;&lt;br&gt;  &lt;br&gt; “Highly readable . . . [Smith] shows us that [Eisenhower’s] ascent to the highest levels of the military establishment had much more to do with his easy mastery of politics than with any great strategic or tactical achievements.”—&lt;em&gt;The&lt;/em&gt; &lt;em&gt;Wall Street Journal&lt;/em&gt;&lt;br&gt;  &lt;br&gt; “Always engrossing . . . Smith portrays a genuinely admirable Eisenhower: smart, congenial, unpretentious, and no ideologue. Despite competing biographies from Ambrose, Perret, and D’Este, this is the best.”—&lt;em&gt;Publishers Weekly&lt;/em&gt; (starred review)</description>
+<authors>
+<author>
+<id>191016</id>
+<name>Jean Edward Smith</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1257780125p5/191016.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1257780125p2/191016.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/191016.Jean_Edward_Smith]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>13041</ratings_count>
+<text_reviews_count>595</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+</user_status>
+
+            <created_at>Wed May 23 11:28:07 -0700 2012</created_at>
+    </user>
+    <user>
+      <id>602124</id>
+      <name>Kristen</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/602124-kristen]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1285362410p3/602124.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1285362410p2/602124.jpg]]></small_image_url>
+      <friends_count>90</friends_count>
+      <reviews_count>856</reviews_count>
+            <created_at>Fri Apr 23 08:48:11 -0700 2010</created_at>
+    </user>
+    <user>
+      <id>11080020</id>
+      <name>Seth</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/11080020-seth]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1367941618p3/11080020.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1367941618p2/11080020.jpg]]></small_image_url>
+      <friends_count>310</friends_count>
+      <reviews_count>280</reviews_count>
+        <user_status>
+  <id type="integer">82050234</id>
+  <page type="integer">45</page>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body></body>
+  <created_at type="datetime">2015-12-12T06:25:14+00:00</created_at>
+  <updated_at type="datetime">2015-12-12T06:25:14+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer">16</percent>
+  <work_id type="integer">40330</work_id>
+  <note_uri nil="true"/>
+  <note_updated_at type="datetime" nil="true"/>
+<book>
+  <id type="integer">40745</id>
+  <isbn>1400062756</isbn>
+  <isbn13>9781400062751</isbn13>
+  <text_reviews_count type="integer">1843</text_reviews_count>
+  <title>Mindset: The New Psychology of Success</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40745.Mindset</link>
+  <num_pages>276</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Random House</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>18936</ratings_count>
+  <description>&lt;strong&gt;World-renowned Stanford University psychologist Carol Dweck, in decades of research on achievement and success, has discovered a truly groundbreaking idea—the power of our mindset.&lt;/strong&gt;&lt;br&gt;  &lt;br&gt; Dweck explains why it’s not just our abilities and talent that bring us success—but whether we approach them with a fixed or growth mindset. She makes clear why praising intelligence and ability doesn’t foster self-esteem and lead to accomplishment, but may actually jeopardize success. With the right mindset, we can motivate our kids and help them to raise their grades, as well as reach our own goals—personal and professional. Dweck reveals what all great parents, teachers, CEOs, and athletes already know: how a simple idea about the brain can create a love of learning and a resilience that is the basis of great accomplishment in every area.</description>
+<authors>
+<author>
+<id>217172</id>
+<name>Carol S. Dweck</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1322080583p5/217172.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1322080583p2/217172.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/217172.Carol_S_Dweck]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>19153</ratings_count>
+<text_reviews_count>2206</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+</user_status>
+
+            <created_at>Wed Feb 13 20:49:46 -0800 2013</created_at>
+    </user>
+    <user>
+      <id>2868781</id>
+      <name>Cheralaine Cole-Johnson </name>
+      <link><![CDATA[https://www.goodreads.com/user/show/2868781-cheralaine-cole-johnson]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1349839013p3/2868781.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1349839013p2/2868781.jpg]]></small_image_url>
+      <friends_count>43</friends_count>
+      <reviews_count>786</reviews_count>
+            <created_at>Tue Oct 05 18:18:09 -0700 2010</created_at>
+    </user>
+</friends>
+
+</GoodreadsResponse>

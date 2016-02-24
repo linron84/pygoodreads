@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[3WTEwSejHvuT5V3nGcmjA]]></key>
+    <method><![CDATA[user_followings_index]]></method>
+  </Request>
+  <followers start="1" end="30" total="231">
+    <user>
+      <id>5138055</id>
+      <name>Shayla</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/5138055-shayla]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1300386781p3/5138055.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1300386781p2/5138055.jpg]]></small_image_url>
+      <friends_count>333</friends_count>
+      <reviews_count>504</reviews_count>
+  			<created_at>Thu Nov 24 17:39:17 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>4599594</id>
+      <name>Monika</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/4599594-monika]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1412253694p3/4599594.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1412253694p2/4599594.jpg]]></small_image_url>
+      <friends_count>311</friends_count>
+      <reviews_count>4710</reviews_count>
+  			<created_at>Fri Nov 25 13:48:57 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>6896706</id>
+      <name>Jacqui</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/6896706-jacqui]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1332334886p3/6896706.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1332334886p2/6896706.jpg]]></small_image_url>
+      <friends_count>717</friends_count>
+      <reviews_count>1706</reviews_count>
+  			<created_at>Sat Nov 26 02:24:41 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>5937659</id>
+      <name>Deb Novack</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/5937659-deb-novack]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1352498250p3/5937659.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1352498250p2/5937659.jpg]]></small_image_url>
+      <friends_count>914</friends_count>
+      <reviews_count>3597</reviews_count>
+  			<created_at>Mon Nov 28 19:03:26 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>2021209</id>
+      <name>Stacie Tess</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/2021209-stacie-tess]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1360585465p3/2021209.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1360585465p2/2021209.jpg]]></small_image_url>
+      <friends_count>507</friends_count>
+      <reviews_count>764</reviews_count>
+  			<created_at>Sat Dec 03 18:58:21 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>7079718</id>
+      <name>Ralph Santiago</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/7079718-ralph-santiago]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1422704736p3/7079718.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1422704736p2/7079718.jpg]]></small_image_url>
+      <friends_count>402</friends_count>
+      <reviews_count>536</reviews_count>
+  			<created_at>Sun Dec 04 07:50:12 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>5993495</id>
+      <name>Kami Dodson-Perry</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/5993495-kami-dodson-perry]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1319294915p3/5993495.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1319294915p2/5993495.jpg]]></small_image_url>
+      <friends_count>2962</friends_count>
+      <reviews_count>5183</reviews_count>
+  			<created_at>Tue Dec 06 18:50:01 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>6758543</id>
+      <name>Beverly Johnson</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/6758543-beverly-johnson]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1319391922p3/6758543.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1319391922p2/6758543.jpg]]></small_image_url>
+      <friends_count>210</friends_count>
+      <reviews_count>9</reviews_count>
+  			<created_at>Fri Dec 09 11:04:27 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>5122126</id>
+      <name>Pixel Word</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/5122126-pixel-word]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1315882963p3/5122126.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1315882963p2/5122126.jpg]]></small_image_url>
+      <friends_count>524</friends_count>
+      <reviews_count>291</reviews_count>
+  			<created_at>Mon Dec 12 10:39:54 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>6129296</id>
+      <name>Marissa</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/6129296-marissa]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1314501680p3/6129296.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1314501680p2/6129296.jpg]]></small_image_url>
+      <friends_count>238</friends_count>
+      <reviews_count>248</reviews_count>
+  			<created_at>Thu Dec 15 18:40:17 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>5108515</id>
+      <name>Madel</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/5108515-madel]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1449054176p3/5108515.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1449054176p2/5108515.jpg]]></small_image_url>
+      <friends_count>265</friends_count>
+      <reviews_count>1287</reviews_count>
+  			<created_at>Fri Dec 16 04:36:21 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>5547755</id>
+      <name>Lori</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/5547755-lori]]></link>
+      <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+      <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+      <friends_count>358</friends_count>
+      <reviews_count>786</reviews_count>
+  			<created_at>Fri Dec 16 10:59:06 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>5643108</id>
+      <name>Charlotte Phillips</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/5643108-charlotte-phillips]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1420114188p3/5643108.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1420114188p2/5643108.jpg]]></small_image_url>
+      <friends_count>810</friends_count>
+      <reviews_count>12161</reviews_count>
+  			<created_at>Mon Dec 19 12:39:34 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>5220962</id>
+      <name>Shaine</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/5220962-shaine]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1318784550p3/5220962.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1318784550p2/5220962.jpg]]></small_image_url>
+      <friends_count>508</friends_count>
+      <reviews_count>624</reviews_count>
+  			<created_at>Wed Dec 21 02:34:26 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>6866693</id>
+      <name>Shannon Achuff</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/6866693-shannon-achuff]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1320420006p3/6866693.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1320420006p2/6866693.jpg]]></small_image_url>
+      <friends_count>286</friends_count>
+      <reviews_count>125</reviews_count>
+  			<created_at>Wed Dec 21 14:05:48 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>6618321</id>
+      <name>Samantha Shakespeare</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/6618321-samantha-shakespeare]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1321086258p3/6618321.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1321086258p2/6618321.jpg]]></small_image_url>
+      <friends_count>861</friends_count>
+      <reviews_count>41</reviews_count>
+  			<created_at>Thu Dec 22 12:55:58 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>6361677</id>
+      <name>Lydia Galmarini</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/6361677-lydia-galmarini]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1322441177p3/6361677.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1322441177p2/6361677.jpg]]></small_image_url>
+      <friends_count>206</friends_count>
+      <reviews_count>710</reviews_count>
+  			<created_at>Tue Dec 27 15:47:37 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>5303653</id>
+      <name>Ivan</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/5303653-ivan]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1318148227p3/5303653.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1318148227p2/5303653.jpg]]></small_image_url>
+      <friends_count>19</friends_count>
+      <reviews_count>74</reviews_count>
+  			<created_at>Wed Dec 28 02:11:51 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>943607</id>
+      <name>Vicente M.</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/943607-vicente-m]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1322147246p3/943607.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1322147246p2/943607.jpg]]></small_image_url>
+      <friends_count>12</friends_count>
+      <reviews_count>101</reviews_count>
+  			<created_at>Wed Dec 28 05:18:29 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>5822428</id>
+      <name><![CDATA[Thebookfinder-reviews goodreads]]></name>
+      <link><![CDATA[https://www.goodreads.com/user/show/5822428-thebookfinder-reviews-goodreads]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1387058709p3/5822428.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1387058709p2/5822428.jpg]]></small_image_url>
+      <friends_count>436</friends_count>
+      <reviews_count>105</reviews_count>
+  			<created_at>Wed Dec 28 10:45:45 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>4713430</id>
+      <name>Jared  Deocareza</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/4713430-jared-deocareza]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1450708479p3/4713430.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1450708479p2/4713430.jpg]]></small_image_url>
+      <friends_count>123</friends_count>
+      <reviews_count>1065</reviews_count>
+  			<created_at>Wed Dec 28 11:05:00 -0800 2011</created_at>
+    </user>
+    <user>
+      <id>7306791</id>
+      <name>Tylersue</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/7306791-tylersue]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1325474050p3/7306791.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1325474050p2/7306791.jpg]]></small_image_url>
+      <friends_count>0</friends_count>
+      <reviews_count>1</reviews_count>
+  			<created_at>Sun Jan 01 20:12:20 -0800 2012</created_at>
+    </user>
+    <user>
+      <id>6265422</id>
+      <name>Lisa Garner</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/6265422-lisa-garner]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1419700115p3/6265422.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1419700115p2/6265422.jpg]]></small_image_url>
+      <friends_count>258</friends_count>
+      <reviews_count>532</reviews_count>
+  			<created_at>Tue Jan 03 09:56:32 -0800 2012</created_at>
+    </user>
+    <user>
+      <id>6908414</id>
+      <name>Michael Taylor</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/6908414-michael-taylor]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1442610075p3/6908414.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1442610075p2/6908414.jpg]]></small_image_url>
+      <friends_count>329</friends_count>
+      <reviews_count>203</reviews_count>
+  			<created_at>Thu Jan 05 18:48:18 -0800 2012</created_at>
+    </user>
+    <user>
+      <id>4272189</id>
+      <name>Heather</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/4272189-heather]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1383404692p3/4272189.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1383404692p2/4272189.jpg]]></small_image_url>
+      <friends_count>27</friends_count>
+      <reviews_count>1663</reviews_count>
+  			<created_at>Sat Jan 07 12:15:09 -0800 2012</created_at>
+    </user>
+    <user>
+      <id>6065754</id>
+      <name>Caroline</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/6065754-caroline]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1356814672p3/6065754.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1356814672p2/6065754.jpg]]></small_image_url>
+      <friends_count>137</friends_count>
+      <reviews_count>175</reviews_count>
+  			<created_at>Mon Jan 09 20:31:21 -0800 2012</created_at>
+    </user>
+    <user>
+      <id>6958202</id>
+      <name>Roxana</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/6958202-roxana]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1432215224p3/6958202.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1432215224p2/6958202.jpg]]></small_image_url>
+      <friends_count>156</friends_count>
+      <reviews_count>1031</reviews_count>
+  			<created_at>Fri Jan 13 08:16:53 -0800 2012</created_at>
+    </user>
+    <user>
+      <id>6672340</id>
+      <name>zcb257</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/6672340-zcb257]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1320850797p3/6672340.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1320850797p2/6672340.jpg]]></small_image_url>
+      <friends_count>315</friends_count>
+      <reviews_count>368</reviews_count>
+  			<created_at>Sat Jan 14 06:59:30 -0800 2012</created_at>
+    </user>
+    <user>
+      <id>5754823</id>
+      <name>Teresa</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/5754823-teresa]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1345839967p3/5754823.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1345839967p2/5754823.jpg]]></small_image_url>
+      <friends_count>623</friends_count>
+      <reviews_count>665</reviews_count>
+  			<created_at>Mon Jan 16 10:42:50 -0800 2012</created_at>
+    </user>
+    <user>
+      <id>7492473</id>
+      <name>Iris</name>
+      <link><![CDATA[https://www.goodreads.com/user/show/7492473-iris]]></link>
+      <image_url><![CDATA[https://d.gr-assets.com/users/1327633271p3/7492473.jpg]]></image_url>
+      <small_image_url><![CDATA[https://d.gr-assets.com/users/1327633271p2/7492473.jpg]]></small_image_url>
+      <friends_count>12</friends_count>
+      <reviews_count>101</reviews_count>
+  			<created_at>Sat Jan 21 15:22:30 -0800 2012</created_at>
+    </user>
+</followers>
+
+</GoodreadsResponse>
